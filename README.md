@@ -11,3 +11,5 @@ Step 3: Open the games folder
 Step 4: Open index.html
 
 Step 5: Ur done
+
+Windows Tutorial: https://github.com/newnkgame/tutorials-1/blob/main/WINDOWSDOWNLOADTUTORIAL.mp4
