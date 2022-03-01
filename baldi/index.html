@@ -1,19 +1,13 @@
-<html>
-<header>
-
-    <link rel="stylesheet" href="TemplateData/style.css">
-    <script src="TemplateData/UnityProgress.js"></script>
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
     <title>Baldi's Basics</title>
-    <script src="baldi.js"></script>
-    <link rel="shortcut icon" href="/images/nklogo-icon.ico">
-    <script>
-        var gameInstance = UnityLoader.instantiate("gameContainer", "baldi.json", {onProgress: UnityProgress,Module:{onRuntimeInitialized: function() {UnityProgress(gameInstance, "complete")}}});
-    </script>
-</header>
-<body style="backgroud-color:black;">
-<div class="webgl-content">
-        <div id="gameContainer" style="width: 800px; height: 560px; margin: auto"></div>
-        </div>
-  <script src="firebase-app.js"></script>
+    <link rel="shortcut icon" href="../images/nklogo-icon.ico">
+    <meta name="robots" content="noindex,nofollow" />
+</head>
+
+<body style="background-color:black">
+    <iframe id='ifrm' src="https://rawcdn.githack.com/NarwhalKid/NarwhalKid.github.io/2cee29415201ffb7376c2897097ad6ed1ff70d87/baldi/index.html" width="1920" height="1080" style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>
 </body>
 </html>
