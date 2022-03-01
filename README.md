@@ -14,4 +14,4 @@ Step 5: Ur done
 
 Windows Tutorial: https://github.com/newnkgame/tutorials/blob/main/WINDOWSDOWNLOADTUTORIAL.mp4
 
-Chrome OS Tutorial: 
+Chrome OS Tutorial: https://github.com/newnkgame/tutorials/blob/main/CHROMEOSTUTORIAL.webm
